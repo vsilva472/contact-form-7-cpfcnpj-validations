@@ -22,12 +22,6 @@ Na seção *screenshots* você encontra (em ordem de cronolóligica) o processo 
 
 ## Instalação
 
-### Instalação via busca pelo painel de Admin
-
-1. Logue como admin e navegue até a tela "Adicionar novo plugin" e busque por "cpf-cnpj".
-2. Clique no botão "Instalar Agora".
-3. Ative o plugin.
-
 ### Instalação via painel de admin com arquivo zip
 
 1. Baixe o [zip](https://github.com/vsilva472/contact-form-7-cpf-cnpj-validations/archive/master.zip) do projeto.
@@ -39,10 +33,11 @@ Na seção *screenshots* você encontra (em ordem de cronolóligica) o processo 
 ### Instalação Manual
 
 1. Baixe e descompacte o [zip](https://github.com/vsilva472/contact-form-7-cpf-cnpj-validations/archive/master.zip).
-2. Copíe a pasta "contact-form-7-cpf-cnpj-validations" para dentro da pasta */wp-content/plugin/* de sua instalação do Wordpress.
+2. Copie a pasta "contact-form-7-cpf-cnpj-validations" para dentro da pasta */wp-content/plugin/* de sua instalação do Wordpress.
 3. Ative o plugin
 
 Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** em seus formulários de contato.
+
 
 ## Dúvidas Frequentes
 
@@ -69,6 +64,7 @@ Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** 
 
 8. #### Como eu faço para validar um campo de CNPJ?
    Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a class **cf7cpfcnpj-cnpj**
+
 
 ### Screenshots
 
