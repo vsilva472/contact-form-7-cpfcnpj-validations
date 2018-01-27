@@ -78,6 +78,6 @@ Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** 
 
 
 ### Doações
-Se este plugin te ajudou, que tal me pagar uma xícata de café?
+Se este plugin te ajudou, que tal me pagar uma xícara de café?
 
 [![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2TVGUEWUEJWAW&lc=BR&item_name=wpplugin&item_number=cf7%2dcpf%2dcnpj&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
