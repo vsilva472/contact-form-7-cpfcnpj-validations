@@ -1,5 +1,4 @@
 # Contact Form 7 CPF/CNPJ Validations #
-[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2TVGUEWUEJWAW&lc=BR&item_name=wpplugin&item_number=cf7%2dcpf%2dcnpj&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 ## Descrição
 
@@ -66,11 +65,19 @@ Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** 
    Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a class **cf7cpfcnpj-cnpj**
 
 
+
 ### Screenshots
 
 > <a href="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-1.png" target="_blank" title="Criando um campo de texto obrigatório e com validação de CPF"><img src="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-1.png" width="100" alt="Validação de CPF"></a> <a href="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-2.png" target="_blank" title="Criando um campo de texto obrigatório e com validação de CNPJ"><img src="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-2.png" width="100" alt="Criando um campo de texto obrigatório e com validação de CNPJ"></a> <a href="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-3.png" target="_blank" title="Formulário com 1 campo de CPF e CNPJ obrigatórios e um campo de CPF opcional"><img src="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-3.png" width="100" alt="Formulário com 1 campo de CPF e CNPJ obrigatórios e um campo de CPF opcional"></a> <a href="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-4.png" target="_blank" title="Formulário com CPF e CNPJ inválidos"><img src="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-4.png" width="100" alt="Formulário com CPF e CNPJ inválidos"></a> <a href="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-5.png" target="_blank" title="Formulário com CPF Válido e CNPJ inválido"><img src="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-5.png" width="100" alt="Formulário com CPF Válido e CNPJ inválido"></a> <a href="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-6.png" target="_blank" title="Formulário com CPF formatado válido (formatado com JS ou pelo usuário) e CNPJ inválido"><img src="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-6.png" width="100" alt="Formulário com CPF formatado válido (formatado com JS ou pelo usuário) e CNPJ inválido"></a> <a href="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-7.png" target="_blank" title="Formulário com CPF e CNPJ válidos"><img src="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-7.png" width="100" alt="Formulário com CPF e CNPJ válidos"></a>  <a href="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-8.png" target="_blank" title="Formulário com CPF e CNPJ válidos (ambos formatados com JS ou pelo usuário)"><img src="https://www.viniciusdesouza.com.br/wp-plugins/cf7-cpf-cnpj/screenshot-8.png" width="100" alt="Formulário com CPF e CNPJ válidos (ambos formatados com JS ou pelo usuário)"></a> 
+
 
 ### Changelog
 
 0.0.1 - 2018-01-27 
 * Commit Inicial
+
+
+### Doações
+Se este plugin te ajudou, que tal doar uma xícata de café?
+
+[![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2TVGUEWUEJWAW&lc=BR&item_name=wpplugin&item_number=cf7%2dcpf%2dcnpj&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
