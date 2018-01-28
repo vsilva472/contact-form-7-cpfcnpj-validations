@@ -4,7 +4,7 @@ Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2TVGU
 Requires at least: 4.6
 Requires PHP: 5.5
 Tested up to: 4.9.2
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 Tags: contact, form, contact form, cpf, cnpj, cpf-cnpj
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -87,12 +87,16 @@ Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a class 
 
 == Changelog ==
 
-= 0.0.2 - 2018-01-27 =
+= 0.0.2 - 2018-01-28 =
+* Safe Require das dependencias
+
+= 0.0.1 - 2018-01-27 =
 * Commit Inicial
 
 == Upgrade Notice ==
 
-0.0.2 Versão inicial estável
+0.0.2 Safe Require das dependencias
+0.0.1 Versão inicial estável
 
 
 

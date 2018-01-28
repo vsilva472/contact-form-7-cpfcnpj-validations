@@ -73,6 +73,9 @@ Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** 
 
 ### Changelog
 
+0.0.2 - 2018-01-28
+* Safe require das dependâncias do plugin
+
 0.0.1 - 2018-01-27 
 * Commit Inicial
 
