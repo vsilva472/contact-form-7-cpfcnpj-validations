@@ -32,7 +32,7 @@ Na seção *screenshots* você encontra (em ordem de cronolóligica) o processo 
 
 = Instalação via busca pelo painel de Admin =
 
-1. Logue como admin e navegue até a tela "Adicionar novo plugin" e busque por "cpf-cnpj".
+1. Logue como admin e navegue até a tela "Adicionar novo plugin" e busque por "contact form 7 CPF/CNPJ".
 2. Clique no botão "Instalar Agora".
 3. Ative o plugin.
 
@@ -43,7 +43,7 @@ Na seção *screenshots* você encontra (em ordem de cronolóligica) o processo 
 4. Uma vez instalado, ative o plugin **Contact Form 7 CPF/CNPJ Validations**
 
 = Instalação Manual =
-1. Faça o upload da pasta "contact-form-7-cpf-cnpj" para dentro da pasta */wp-content/plugin/* de sua instalação do Wordpress.
+1. Faça o upload da pasta "contact-form-7-cpfcnpj-validations" para dentro da pasta */wp-content/plugin/* de sua instalação do Wordpress.
 2. Ative o plugin
 
 Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** em seus formulários de contato.
@@ -56,8 +56,8 @@ Não, o plugin não aplica nenhum tipo de formatação nos campos de seu formul�
 #### Este plugin insere algum tipo de código javascript no meu site?
 Não, toda validação é feita no backend.
 
-#### Em que tipos de campo a validação ocorre?
-A validação ocorre nos campos do tipo "text" do formulário
+#### Em que tipo(s) de campo(s) a validação ocorre?
+A validação ocorre nos campos do tipo "text" do formulário.
 
 #### A validação é feita somente em campos obrigatórios?
 Não, a validação é feita em campos obrigatórios e/ou opcionais, desde que sejam do tipo "text".
@@ -69,10 +69,10 @@ Não, a validação dos campos é feita de forma independente.
 Não, a validação dos campos é feita de forma independente.
 
 #### Como eu faço para validar um campo de CPF?
-Para validar um campo de CPF você deve adcionar ao shortcode do campo a class **cf7cpfcnpj-cpf**
+Para validar um campo de CPF você deve adicionar ao shortcode do campo a classe css **cf7cpfcnpj-cpf**
 
 #### Como eu faço para validar um campo de CNPJ?
-Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a class **cf7cpfcnpj-cnpj**
+Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a classe css **cf7cpfcnpj-cnpj**
 
 == Screenshots ==
 
@@ -87,6 +87,9 @@ Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a class 
 
 == Changelog ==
 
+= 0.0.3 - 2018-01-30 =
+* Atualização de imagens e instruções no readme
+
 = 0.0.2 - 2018-01-28 =
 * Safe Require das dependencias
 
@@ -95,6 +98,7 @@ Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a class 
 
 == Upgrade Notice ==
 
+0.0.3 Atualização de imagens e instruções no readme
 0.0.2 Safe Require das dependencias
 0.0.1 Versão inicial estável
 
