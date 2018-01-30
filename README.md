@@ -1,4 +1,9 @@
 # Contact Form 7 CPF/CNPJ Validations #
+[![WordPress plugin](https://img.shields.io/wordpress/plugin/v/cf7-cpfcnpj-validations.svg)](https://wordpress.org/plugins/cf7-cpfcnpj-validations/) 
+[![WordPress plugin](https://img.shields.io/wordpress/plugin/dt/cf7-cpfcnpj-validations.svg)](https://wordpress.org/plugins/cf7-cpfcnpj-validations/) 
+[![WordPress](https://img.shields.io/wordpress/v/cf7-cpfcnpj-validations.svg)](https://wordpress.org/plugins/cf7-cpfcnpj-validations/)
+
+
 
 ## Descrição
 
@@ -21,9 +26,16 @@ Na seção *screenshots* você encontra (em ordem de cronolóligica) o processo 
 
 ## Instalação
 
+### Instalação via busca pelo painel de Admin =
+
+1. Logue como admin e navegue até a tela "Adicionar novo plugin" e busque por "contact form 7 cpf".
+2. Clique no botão "Instalar Agora".
+3. Ative o plugin.
+
+
 ### Instalação via painel de admin com arquivo zip
 
-1. Baixe o [zip](https://github.com/vsilva472/contact-form-7-cpf-cnpj-validations/archive/master.zip) do projeto.
+1. Baixe o [zip](https://wordpress.org/plugins/cf7-cpfcnpj-validations/) do projeto.
 2. Logue como admin e navegue até a tela "Adicionar novo plugin" e clique no botão "Fazer upload do plugin".
 3. Clique no botão "escolher arquivo..." e selecione o arquivo zip que você fez o download.
 4. Clique no botão "Instalar Agora".
@@ -31,7 +43,7 @@ Na seção *screenshots* você encontra (em ordem de cronolóligica) o processo 
 
 ### Instalação Manual
 
-1. Baixe e descompacte o [zip](https://github.com/vsilva472/contact-form-7-cpf-cnpj-validations/archive/master.zip).
+1. Baixe e descompacte o [zip](https://wordpress.org/plugins/cf7-cpfcnpj-validations/).
 2. Copie a pasta "contact-form-7-cpf-cnpj-validations" para dentro da pasta */wp-content/plugin/* de sua instalação do Wordpress.
 3. Ative o plugin
 
@@ -59,7 +71,7 @@ Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** 
    Não, a validação dos campos é feita de forma independente.
 
 7. #### Como eu faço para validar um campo de CPF?
-   Para validar um campo de CPF você deve adcionar ao shortcode do campo a class **cf7cpfcnpj-cpf**
+   Para validar um campo de CPF você deve adicionar ao shortcode do campo a class **cf7cpfcnpj-cpf**
 
 8. #### Como eu faço para validar um campo de CNPJ?
    Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a class **cf7cpfcnpj-cnpj**
@@ -72,6 +84,9 @@ Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** 
 
 
 ### Changelog
+
+0.0.3 - 2018-01-30
+- Atualização do readme.txt
 
 0.0.2 - 2018-01-28
 * Safe require das dependâncias do plugin

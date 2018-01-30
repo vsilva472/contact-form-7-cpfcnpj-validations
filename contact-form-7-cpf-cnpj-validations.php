@@ -5,7 +5,7 @@ Description: Validações de CPF e/ou CNPJ para campos do plugin Contact Form 7
 Plugin URI: https://github.com/vsilva472/contact-form-7-cpf-cnpj-validations
 Author: Vinicius Silva
 Author URI: http://www.viniciusdesouza.com.br
-Version: 0.0.2
+Version: 0.0.3
 */
 
 if ( ! defined( 'CF7CPFCNPJ_PLUGIN_DIR' ) ) {

@@ -4,7 +4,7 @@ Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2TVGU
 Requires at least: 4.6
 Requires PHP: 5.5
 Tested up to: 4.9.2
-Stable tag: 0.0.2
+Stable tag: 0.0.3
 Tags: contact, form, contact form, cpf, cnpj, cpf-cnpj
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -59,7 +59,7 @@ Não, toda validação é feita no backend.
 #### Em que tipos de campo a validação ocorre?
 A validação ocorre nos campos do tipo "text" do formulário
 
-#### A valição é feita somente em campos obrigatórios?
+#### A validação é feita somente em campos obrigatórios?
 Não, a validação é feita em campos obrigatórios e/ou opcionais, desde que sejam do tipo "text".
 
 #### Meu formulário tem apenas o campo de CPF, preciso inserir o campo de CNPJ?
