@@ -140,6 +140,7 @@ class CpfCnpjValidator {
      */
     private function isCpfField ($tag)
     {
+	    $tag = (Object)$tag;
         return in_array( self::CPF_FIELD_KEY, $tag->options);
     }
 
@@ -153,6 +154,7 @@ class CpfCnpjValidator {
      */
     private function isCnpjField ($tag)
     {
+	    $tag = (Object)$tag;
         return in_array( self::CNPJ_FIELD_KEY, $tag->options);
     }
 
@@ -166,6 +168,7 @@ class CpfCnpjValidator {
      */
     private function isRequiredField ($tag)
     {
+	    $tag = (Object)$tag;
         return (self::REQUIRED_FIELD_KEY === $tag->type);
     }
 
@@ -179,6 +182,7 @@ class CpfCnpjValidator {
      */
     private function getFieldValueFromTag($tag)
     {
+	    $tag = (Object)$tag;
         return isset( $_POST[ $tag->name ] ) ? sanitize_text_field( $_POST[ $tag->name ] ) : '';
     }
     //</editor-fold>

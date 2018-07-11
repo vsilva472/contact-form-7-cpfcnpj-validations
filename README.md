@@ -76,6 +76,9 @@ Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** 
 8. #### Como eu faço para validar um campo de CNPJ?
    Para validar um campo de CNPJ você deve adcionar ao shortcode do campo a class **cf7cpfcnpj-cnpj**
 
+9. #### Quais versões do CF7 este plugin é compatível
+   A versão 0.0.4 deste plugin foi testado com a versão as seguintes versões do Contact Form 7: 4.4.1, 4.4.2, 4.5, 4.5.1, 4.6, 4.6.1, 4.7, 4.8., 4.8.1, 4.9, 4.9.1, 4.9.2, 5.0, 5.0.1 e 5.0.2. Acreditamos que ainda seja compatível com versões mais antigas.
+
 
 
 ### Screenshots
@@ -85,11 +88,15 @@ Pronto! Agora você pode facilmente **validar** campos de **CPF** e/ou **CNPJ** 
 
 ### Changelog
 
+0.0.4 - 2018-07-11
+- Cast $tag para object dentro dos helpers para ser compatível com versões mais antigas do CF7
+- Agora plugin é compatível com versões 4.4.1+ do CF7
+
 0.0.3 - 2018-01-30
 - Atualização do readme.txt
 
 0.0.2 - 2018-01-28
-* Safe require das dependâncias do plugin
+* Safe require das dependências do plugin
 
 0.0.1 - 2018-01-27 
 * Commit Inicial
